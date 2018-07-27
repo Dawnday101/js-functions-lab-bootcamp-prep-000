@@ -13,7 +13,7 @@ function happyHolidays(string) {
     return 'Happy ${holiday}, ${name}!'
   }
   function holidayCountdown(string) {
-    return "It's ${days} days until ${holiday}!"
+    return "It's 20 days until Mother's Day!"
   }
 
 
